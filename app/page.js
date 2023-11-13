@@ -7,7 +7,7 @@ export default function Home() {
     <main className={styles.main}>
       <div>
         <h1>THIS IS THE ROOT ROUTE. </h1>
-        <Link href="http://localhost:3000/products/"><p>Please visit this link for the products page</p></Link>
+        <Link href="/products/"><p>Please visit this link for the products page</p></Link>
       
       </div>
     </main>
